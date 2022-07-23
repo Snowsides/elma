@@ -1,1 +1,1 @@
-A boilerplate for build and compile JavaScript, SCSS, and SVG files.
+A boilerplate for build and compile JavaScript, SCSS, and SVG files and split to a few files. 
